@@ -1,5 +1,6 @@
 import java.util.*;
 
+
 class URLShortener {
     private static final String CHAR_SET = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789";
     private static final int BASE = CHAR_SET.length();
